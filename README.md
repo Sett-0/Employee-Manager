@@ -9,7 +9,7 @@ The employee list is stored as a text file. </br>
 Learning Windows Forms.
 
 ## Gallery
-![Welcome window]("Practice 3-4/Files/Promos/promo1.png")
-![About program]("Practice 3-4/Files/Promos/promo2.png")
-![Adding new employee]("Practice 3-4/Files/Promos/promo3.png")
-![Employee list manager]("Practice 3-4/Files/Promos/promo4.png")
+![Welcome window](Practice 3-4/Files/Promos/promo1.png)
+![About program](Practice 3-4/Files/Promos/promo2.png)
+![Adding new employee](Practice 3-4/Files/Promos/promo3.png)
+![Employee list manager](Practice 3-4/Files/Promos/promo4.png)
